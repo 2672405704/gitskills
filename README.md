@@ -1,4 +1,4 @@
 # gitskills
 Creating a new branch is quick
-practice branch
+Creating to a new branch 'feature'
 
